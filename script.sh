@@ -6,7 +6,7 @@ echo "alias phpsn='php artisan'" >> ~/.bashrc
 
 source ~/.bashrc
 
-uu
+sudo apt-get update -y
 
-asf install php php-mysql php-gd php-mbstring php-curl php-zip php-xml php-soap php-fpm mysql-server
-asf install composer
+sudo apt-get install php php-mysql php-gd php-mbstring php-curl php-zip php-xml php-soap php-fpm mysql-server
+sudo apt-get install composer
