@@ -8,5 +8,5 @@ source ~/.bashrc
 
 sudo apt-get update -y
 
-sudo apt-get install php php-mysql php-gd php-mbstring php-curl php-zip php-xml php-soap php-fpm mysql-server
-sudo apt-get install composer
+sudo apt-get install php php-mysql php-gd php-mbstring php-curl php-zip php-xml php-soap php-fpm mysql-server \
+  composer
